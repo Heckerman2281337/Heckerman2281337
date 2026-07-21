@@ -22,12 +22,10 @@
 ---
 
 ### 📈 Моя статистика на GitHub:
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heckerman2281337&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heckerman2281337&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heckerman2281337&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Heckerman2281337&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
-
 ---
 
 ### Как со мной связаться:
