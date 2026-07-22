@@ -31,13 +31,13 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 ---
 
 ### 📚 Learning Plan / Планирую изучать:
-- Advanced SQL / Продвинутый SQL
-- Nginx
-- Docker multistage (learning now / в данный момент изучаю)
-- Microservices / Микросервисы
-- Redis
-- CI/CD
-- RabbitMQ 
+- [ ] Advanced SQL / Продвинутый SQL
+- [ ] Nginx
+- [ ] Docker multistage (learning now / в данный момент изучаю)
+- [ ] Microservices / Микросервисы (learning now / в данный момент изучаю)
+- [ ] Redis (learning now / в данный момент изучаю)
+- [ ] CI/CD
+- [ ] RabbitMQ (learning now / в данный момент изучаю)
 
 ---
 ### 📈 GitHub Stats / Моя статистика:
