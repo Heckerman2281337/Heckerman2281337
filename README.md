@@ -38,7 +38,10 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 - [ ] Redis (learning now / в данный момент изучаю)
 - [ ] CI/CD
 - [ ] RabbitMQ (learning now / в данный момент изучаю)
-
+- [ ] OAuth2
+- [ ] Clean Architecture / DDD .NET
+- [ ] API Gateway
+- [ ] gRPC
 ---
 ### 📈 GitHub Stats / Моя статистика:
 
