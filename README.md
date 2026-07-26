@@ -42,6 +42,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 - [ ] Clean Architecture / DDD .NET
 - [ ] API Gateway
 - [ ] gRPC
+- [ ] xUnit/Moq (learning now / в данный момент изучаю)
 ---
 ### 📈 GitHub Stats / Моя статистика:
 
