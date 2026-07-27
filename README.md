@@ -43,6 +43,10 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 - [ ] API Gateway
 - [ ] gRPC
 - [ ] xUnit/Moq (learning now / в данный момент изучаю)
+- [ ] Scrutor
+- [ ] Integration Testing: WebApplicationFactory
+- [ ] Kubernetes
+- [ ] Dapper
 ---
 ### 📈 GitHub Stats / Моя статистика:
 
