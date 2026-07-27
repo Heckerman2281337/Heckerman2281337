@@ -45,6 +45,12 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 - [ ] xUnit/Moq/WebApplicationFactory (learning now / в данный момент изучаю)
 - [ ] Scrutor 
 - [ ] Dapper
+- [ ] AutoMapper
+- [ ] FluentValidation
+- [ ] Serilog
+- [ ] MediatR
+- [ ] Polly
+- [ ] Hangfire
 ---
 ### 📈 GitHub Stats / Моя статистика:
 
