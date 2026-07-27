@@ -39,7 +39,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 - [ ] CI/CD
 - [ ] RabbitMQ (learning now / в данный момент изучаю)
 - [ ] OAuth2
-- [ ] Clean Architecture / DDD .NET
+- [ ] Clean Architecture / DDD .NET (learning now / в данный момент изучаю)
 - [ ] API Gateway
 - [ ] gRPC
 - [ ] xUnit/Moq/WebApplicationFactory (learning now / в данный момент изучаю)
