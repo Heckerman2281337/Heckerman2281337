@@ -42,7 +42,8 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 - [ ] Clean Architecture / DDD .NET (learning now / в данный момент изучаю)
 - [ ] API Gateway
 - [ ] gRPC
-- [ ] xUnit/Moq/WebApplicationFactory (learning now / в данный момент изучаю)
+- [X] xUnit/Moq
+- [ ] WebApplicationFactory (learning now / в данный момент изучаю)
 - [ ] Scrutor 
 - [ ] Dapper
 - [ ] AutoMapper
