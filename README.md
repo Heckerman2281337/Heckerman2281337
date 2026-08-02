@@ -48,7 +48,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 - [ ] Dapper
 - [ ] AutoMapper
 - [ ] FluentValidation
-- [ ] Serilog
+- [X] Serilog
 - [ ] MediatR
 - [ ] Polly
 - [ ] Hangfire
