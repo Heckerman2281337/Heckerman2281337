@@ -36,6 +36,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 - [ ] Microservices / Микросервисы (learning now / в данный момент изучаю)
 - [ ] Redis (learning now / в данный момент изучаю)
 - [ ] CI/CD
+- [ ] K8s
 - [ ] Kafka (learning now / в данный момент изучаю)
 - [ ] RabbitMQ 
 - [ ] OAuth2
