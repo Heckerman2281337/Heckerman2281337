@@ -32,16 +32,16 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ### 📚 Learning Plan / Планирую изучать:
 - [ ] Advanced SQL / Продвинутый SQL
-- [ ] Nginx
 - [X] Docker multistage
 - [ ] Microservices / Микросервисы (learning now / в данный момент изучаю)
 - [ ] Redis (learning now / в данный момент изучаю)
 - [ ] CI/CD
-- [ ] RabbitMQ (learning now / в данный момент изучаю)
+- [ ] Kafka (learning now / в данный момент изучаю)
+- [ ] RabbitMQ 
 - [ ] OAuth2
 - [ ] Clean Architecture / DDD .NET (learning now / в данный момент изучаю)
 - [ ] API Gateway
-- [ ] gRPC
+- [ ] gRPC (learning now / в данный момент изучаю)
 - [X] xUnit/Moq
 - [ ] WebApplicationFactory (learning now / в данный момент изучаю)
 - [ ] Scrutor 
