@@ -30,29 +30,39 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ---
 
-### Learning Plan / Планирую изучать:
-- [ ] Advanced SQL / Продвинутый SQL
-- [X] Docker multistage
-- [ ] Microservices / Микросервисы (learning now / в данный момент изучаю)
-- [ ] Redis (learning now / в данный момент изучаю)
-- [ ] CI/CD
-- [ ] K8s (learning now / в данный момент изучаю)
-- [ ] Kafka (learning now / в данный момент изучаю)
-- [ ] RabbitMQ 
-- [ ] OAuth2
-- [ ] Clean Architecture / DDD .NET (learning now / в данный момент изучаю)
-- [ ] API Gateway
-- [ ] gRPC (learning now / в данный момент изучаю)
-- [X] xUnit/Moq
-- [ ] WebApplicationFactory 
-- [ ] Scrutor 
-- [ ] Dapper
-- [ ] AutoMapper
-- [X] FluentValidation
-- [X] Serilog
-- [ ] MediatR
-- [ ] Polly
-- [ ] Hangfire
+## Learning Roadmap
+
+### Worked with
+- ASP.NET Core
+- Entity Framework Core
+- PostgreSQL
+- JWT
+- Docker
+- Docker Multi-stage
+- xUnit
+- Moq
+- FluentValidation
+- Serilog
+
+### Learning now
+- Microservices
+- Redis
+- Kubernetes
+- Kafka
+- gRPC
+- Clean Architecture
+
+### Planned
+- CI/CD
+- RabbitMQ
+- OAuth2 / OpenID Connect
+- API Gateway
+- WebApplicationFactory
+- Prometheus
+- AutoMapper
+- MediatR
+- Polly
+- Hangfire
 ---
 ### GitHub Stats / Моя статистика:
 
