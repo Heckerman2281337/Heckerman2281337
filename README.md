@@ -44,11 +44,11 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 - [ ] API Gateway
 - [ ] gRPC (learning now / в данный момент изучаю)
 - [X] xUnit/Moq
-- [ ] WebApplicationFactory (learning now / в данный момент изучаю)
+- [ ] WebApplicationFactory 
 - [ ] Scrutor 
 - [ ] Dapper
 - [ ] AutoMapper
-- [ ] FluentValidation
+- [X] FluentValidation
 - [X] Serilog
 - [ ] MediatR
 - [ ] Polly
