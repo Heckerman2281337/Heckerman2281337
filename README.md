@@ -12,7 +12,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ---
 
-### 🛠 Tech Stack / Мой стек:
+### Tech Stack / Мой стек:
 
 - **Languages / Языки:** C#, GDScript, JavaScript (basic), SQL
 - **Backend & Frameworks / Бэкенд:** .NET, ASP.NET Core, Entity Framework Core
@@ -22,7 +22,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ---
 
-### 🚀 Main Projects / Основные проекты:
+### Main Projects / Основные проекты:
 
 - **[DiscordAIConversationPartner](https://github.com/Heckerman2281337/DiscordAIConversationPartner)** - Voice-to-Voice Discord bot with Speech-to-Text and LLM integration on .NET 9. *(Voice-to-Voice Discord-бот с интеграцией Speech-to-Text и LLM на .NET 9)*
 - **[WardrobeTelegramBot](https://github.com/Heckerman2281337/WardrobeTelegramBot)** - Telegram bot for wardrobe cataloging and management (C#, EF Core, PostgreSQL). *(Telegram-бот для каталогизации и управления гардеробом)*
@@ -30,7 +30,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ---
 
-### 📚 Learning Plan / Планирую изучать:
+### Learning Plan / Планирую изучать:
 - [ ] Advanced SQL / Продвинутый SQL
 - [X] Docker multistage
 - [ ] Microservices / Микросервисы (learning now / в данный момент изучаю)
@@ -54,7 +54,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 - [ ] Polly
 - [ ] Hangfire
 ---
-### 📈 GitHub Stats / Моя статистика:
+### GitHub Stats / Моя статистика:
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heckerman2281337&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
@@ -63,5 +63,5 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ---
 
-### ✉️ Contact Me / Как со мной связаться:
+### Contact Me / Как со мной связаться:
 - **Email:** [makskozevnikov4@gmail.com](mailto:makskozevnikov4@gmail.com)
