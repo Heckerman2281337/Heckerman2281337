@@ -67,8 +67,8 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 ### GitHub Stats / Моя статистика:
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heckerman2281337&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Heckerman2281337&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Heckerman2281337&theme=dark"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Heckerman2281337&layout=compact&theme=dark"/>
 </p>
 
 ---
