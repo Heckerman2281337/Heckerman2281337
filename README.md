@@ -75,3 +75,8 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ### Contact Me / Как со мной связаться:
 - **Email:** [makskozevnikov4@gmail.com](mailto:makskozevnikov4@gmail.com)
+
+--- 
+### Life updates / Чем сейчас занимаюсь 
+
+Currently learning algorithms, getting ready for interviews.*(На данный момент изучаю алгоритма и готовлюсь к собесам)*
