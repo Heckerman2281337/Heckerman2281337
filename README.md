@@ -80,3 +80,4 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 ### Life updates / Чем сейчас занимаюсь 
 
 Currently learning algorithms, getting ready for interviews.*(На данный момент изучаю алгоритма и готовлюсь к собесам)*
+UPD: On the moment of 3 September 2026 I still learn algorithms(solving problems on neetcode) and learning stack for interview
