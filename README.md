@@ -74,7 +74,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 ---
 
 ### Contact Me / Как со мной связаться:
-- **Email:** [makskozevnikov4@gmail.com](mailto:makskozevnikov4@gmail.com)
+- **Email:** [deploy_kettle586@simplelogin.com](deploy_kettle586@simplelogin.com)
 
 --- 
 ### Life updates / Чем сейчас занимаюсь 
