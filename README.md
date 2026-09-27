@@ -43,17 +43,17 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 - Moq
 - FluentValidation
 - Serilog
-
+- Clean Architecture
+- 
 ### Learning now
 - Microservices
 - Redis
 - Kubernetes
 - Kafka
 - gRPC
-- Clean Architecture
-
-### Planned
 - CI/CD
+  
+### Planned
 - RabbitMQ
 - OAuth2 / OpenID Connect
 - API Gateway
