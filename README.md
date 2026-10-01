@@ -1,6 +1,6 @@
 # Hi, I'm Maxim! 👋
 
-I enjoy writing clean, maintainable code, exploring new technologies, and solving practical problems. Im a .NET Developer specializing in backend development, coding in **C#**, and building various services-ranging from REST APIs and Fullstack web applications to AI bots and game mods.
+I enjoy writing clean, maintainable code, exploring new technologies, and solving practical problems. Im a .NET Developer specializing in backend development, coding in **C#**, and building various services-ranging from REST APIs to AI bots and game mods.
 
 <details>
 <summary><b>🇷🇺 Нажмите, чтобы прочитать на русском</b></summary>
@@ -8,7 +8,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 # Привет, я Максим! 👋
 
 Люблю писать понятный и поддерживаемый код, изучать новые технологии и решать практические задачи.
-Я .NET-разработчик, специализируюсь на backend-разработке, пишу на **C#** и созидаю различные сервисы - от REST API и Fullstack веб-приложений до ИИ-ботов и игровых модов.
+Я .NET-разработчик, специализируюсь на backend-разработке, пишу на **C#** и созидаю различные сервисы - от REST API до ИИ-ботов и игровых модов.
 
 </details>
 
