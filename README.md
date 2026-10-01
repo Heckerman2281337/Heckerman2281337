@@ -1,5 +1,5 @@
 # Hi, I'm Maxim! 👋
-
+### Junior .NET backend developer · open to work · remote · English B2-C1
 I enjoy writing clean, maintainable code, exploring new technologies, and solving practical problems. Im a .NET Developer specializing in backend development, coding in **C#**, and building various services-ranging from REST APIs to AI bots and game mods.
 
 <details>
@@ -32,7 +32,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ---
 
-### Currently Working On
+### Working On
 
 * **TodoAPI** - Its my first big pet-project, so I want to implement various stuff to it for practice
 * **Uncanny Valley** - Developing horror-story mode for Stardew Valley
@@ -91,7 +91,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ### Contact Me:
 
-* **Email:** [deploy_kettle586@simplelogin.com](deploy_kettle586@simplelogin.com)
+* **Email:** [![Email](https://shields.io)](mailto:deploy_kettle586@simplelogin.com)
 
 ###### UPD: Due popularization of doxxing among kids I dont want to share my personal contacts.
 
