@@ -91,7 +91,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ### Contact Me:
 
-* **Email:** [![Email](https://shields.io)](mailto:deploy_kettle586@simplelogin.com)
+* **Email me:** [deploy_kettle586@simplelogin.com](mailto:deploy_kettle586@simplelogin.com)
 
 ###### UPD: Due popularization of doxxing among kids I dont want to share my personal contacts.
 
