@@ -59,7 +59,6 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 - API Gateway
 - WebApplicationFactory
 - Prometheus
-- AutoMapper
 - MediatR
 - Polly
 - Hangfire
