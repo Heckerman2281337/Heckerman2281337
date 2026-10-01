@@ -92,7 +92,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 ### Contact Me:
 
 * **Email me:** [deploy_kettle586@simplelogin.com](mailto:deploy_kettle586@simplelogin.com)
-
+* **Matrix (E2EE Chat):** [@this_is_clearly_anonymious_profile:matrix.org](https://matrix.to)
 ###### UPD: Due popularization of doxxing among kids I dont want to share my personal contacts.
 
 ---
