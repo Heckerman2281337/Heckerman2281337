@@ -63,11 +63,11 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 * FluentValidation
 * Serilog
 * Clean Architecture
-
+* Redis
+  
 #### Learning now
 
 * Microservices
-* Redis
 * Kubernetes
 * Kafka
 * gRPC
