@@ -64,6 +64,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 * Serilog
 * Clean Architecture
 * Redis
+* CI/CD(Github actions)
   
 #### Learning now
 
@@ -71,7 +72,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 * Kubernetes
 * Kafka
 * gRPC
-* CI/CD
+
 
 #### Planned
 
