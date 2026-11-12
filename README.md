@@ -22,10 +22,10 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ### Tech Stack: <img align="right" width="100" height="100" alt="gorbino's-quest-squad" src="https://github.com/user-attachments/assets/9a7ad74d-b922-43a6-88c4-ad2f56d85821" />
 
-* **Languages / Языки:** C#, GDScript, JavaScript (basic), SQL
+* **Languages / Языки:** C#, GDScript, SQL
 * **Backend & Frameworks / Бэкенд:** .NET, ASP.NET Core, Entity Framework Core
 * **Frontend / Фронтенд:** React (basic / базовый уровень)
-* **Databases & Infra / Базы данных и Инфраструктура:** PostgreSQL, Docker, Git
+* **Databases & Infra / Базы данных и Инфраструктура:** PostgreSQL, Docker, Git, Github Actions, Redis
 * **Other / Другое:** Telegram Bots API, Discord.Net, LLM & STT integration, Godot Engine
 
 <img src="divider.svg" width="100%" height="40" alt="" />
