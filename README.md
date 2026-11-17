@@ -25,8 +25,9 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 * **Languages / Языки:** C#, GDScript, SQL
 * **Backend & Frameworks / Бэкенд:** .NET, ASP.NET Core, Entity Framework Core
 * **Frontend / Фронтенд:** React (basic / базовый уровень)
-* **Databases & Infra / Базы данных и Инфраструктура:** PostgreSQL, Docker, Git, Github Actions, Redis
-* **Other / Другое:** Telegram Bots API, Discord.Net, LLM & STT integration, Godot Engine
+* **Databases:** PostgreSQL, Redis
+* **Infrastructure & DevOps:** Docker, Docker Compose, Linux (Ubuntu Server), Nginx Proxy Manager, GitHub Actions
+* **Other / Другое:** LLM & STT integration, Godot Engine
 
 <img src="divider.svg" width="100%" height="40" alt="" />
 
@@ -43,6 +44,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 * **TodoAPI** - Its my first big pet-project, so I want to implement various stuff to it for practice
 * **Uncanny Valley** - Developing horror-story mode for Stardew Valley
 * **Discord Voice Bot** - This is not only my pet-project, but project I want anyone to use
+* **Self-Hosted Home Lab** - Configuring and maintaining a personal Ubuntu Server for deploying pet-projects (Docker, Nginx Proxy Manager, CI/CD, monitoring).
 
 ###### UPD: I will update telegram bot, but not so frequently
 
@@ -50,7 +52,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ### Learning Roadmap: <img align="right" width="80" height="92" alt="glowskull gif" src="https://github.com/user-attachments/assets/24bc018b-7b10-4c9a-a123-b62744164850" />
 
-#### Worked with
+#### Technologies Used in Projects
 
 * ASP.NET Core
 * Entity Framework Core
@@ -65,8 +67,10 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 * Clean Architecture
 * Redis
 * CI/CD(Github actions)
-  
-#### Learning now
+* Linux Administration
+* Nginx Proxy Manager (domain routing, reverse proxy)
+
+#### Currently Learning
 
 * Microservices
 * Kubernetes
@@ -74,16 +78,12 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 * gRPC
 
 
-#### Planned
+#### Next Steps
 
-* RabbitMQ
 * OAuth2 / OpenID Connect
 * API Gateway
 * WebApplicationFactory
 * Prometheus
-* MediatR
-* Polly
-* Hangfire
 
 <img src="divider.svg" width="100%" height="40" alt="" />
 
@@ -106,7 +106,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and solvin
 
 ### Life updates: <img align="right" width="160" height="80" alt="cruelty-squad-roulette gif" src="https://github.com/user-attachments/assets/7412403b-bd1c-4b32-8456-618b57b0174a" />
 
-Im gonna be inactive a bit with my pet-projects. Active preparation for technical interviews: deeply practicing data structures and algorithms (solving problems on NeetCode) and expanding my backend tech stack.
+Currently preparing for technical interviews by practicing data structures and algorithms on NeetCode, while deploying and scaling my backend projects on a self-hosted Linux server.
 
 
 <img src="divider.svg" width="100%" height="40" alt="" />
